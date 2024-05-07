@@ -195,6 +195,10 @@ If you find this repository is useful for you, please cite our paper:
   *Zeyu Zhang, Akide Liu, Ian Reid, Richard Hartley, Bohan Zhuang, Hao Tang.*<br/>[[Paper](https://arxiv.org/abs/2403.07487)] [[Homepage](https://steve-zeyu-zhang.github.io/MotionMamba/)] [[Code](https://github.com/steve-zeyu-zhang/MotionMamba/)]
 - **Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction.** [29 March, 2024] [ArXiv, 2024]<br/>
   *Qiuhong Shen, Xuanyu Yi, Zike Wu, Pan Zhou, Hanwang Zhang, Shuicheng Yan, Xinchao Wang.*<br/>[[Paper](https://arxiv.org/abs/2403.18795)]
+- **Matten: Video Generation with Mamba-Attention.**  [5 May, 2024] [ArXiv, 2024]<br/>
+  *Yu Gao, Jiancheng Huang, Xiaopeng Sun, Zequn Jie, Yujie Zhong, Lin Ma.*<br/>
+  [[Paper](https://arxiv.org/abs/2405.03025)]
+
 
 
 
