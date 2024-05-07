@@ -21,7 +21,7 @@
 If you find this repository is useful for you, please cite our paper:
 
 ```
-
+X. Liu, C. Zhang, L. Zhang, "Vision Mamba: A Comprehensive Survey and Taxonomy," arXiv, 2024.
 ```
 
 
