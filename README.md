@@ -44,9 +44,7 @@ If you find this repository is useful for you, please cite our paper:
   - [Heterologous Stream](#1-Heterologous-Stream)
     - [Multi-Modal Understanding](#11-Multi-Modal-Understanding)
     - [Multimodal large language models](#12-Multimodal-large-language-models)
-
   - [Homologous Stream](#2-Homologous-Stream)
-
 - [Vertical Application](#Vertical-Application)
   - [Remote Sensing Image](#1-Remote-Sensing-Image)
     - [Remote Sensing Image Processing](#11-Remote-Sensing-Image-Processing)
@@ -54,20 +52,18 @@ If you find this repository is useful for you, please cite our paper:
     - [Remote Sensing Image Change Detection](#13-Remote-Sensing-Image-Change-Detection)
     - [Remote Sensing Image Segmentation](#14-Remote-Sensing-Image-Segmentation)
     - [Remote Sensing Image Fusion](#15-Remote-Sensing-Image-Fusion)
-
   - [Medical Image](#2-Medical-Image)
     - [Medical Image Segmentation](#21-Medical-Image-Segmentation)
       - [Preliminary explorations of U-shaped Mamba](#211-Preliminary-explorations-of-U-shaped-Mamba)
       - [Improvements to the U-shaped Mamba](#212-Improvements-to-the U-shaped-Mamba)
       - [U-shaped Mamba with other methodologies](#213-U-shaped-Mamba-with-other-methodologies)
       - [Multi-Dimensional Medical Data Segmentation](#214-Multi-Dimensional-Medical-Data-Segmentation)
-
     - [Pathological Diagnosis](#22-Pathological-Diagnosis)
     - [Deformable Image Registration](#23-Deformable-Image-Registration)
     - [Medical Image Reconstruction](#24-Medical-Image-Reconstruction)
     - [Other Medical Tasks](#25-Other-Medical-Tasks)
-
 - [Other Domains](#other-domains)
+
 
 
 
@@ -84,6 +80,7 @@ If you find this repository is useful for you, please cite our paper:
 - **A Survey on Vision Mamba: Models, Applications and Challenges.** [29 April, 2024] [ArXiv, 2024]<br/>
   *Rui Xu, Shu Yang, Yihui Wang, Bo Du, Hao Chen.*<br/>
   [[Paper](https://arxiv.org/abs/2404.18861)] [[Gihub](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List)]
+
 
 
 
