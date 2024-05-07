@@ -55,7 +55,7 @@ If you find this repository is useful for you, please cite our paper:
   - [Medical Image](#2-Medical-Image)
     - [Medical Image Segmentation](#21-Medical-Image-Segmentation)
       - [Preliminary explorations of U-shaped Mamba](#211-Preliminary-explorations-of-U-shaped-Mamba)
-      - [Improvements to the U-shaped Mamba](#212-Improvements-to-the U-shaped-Mamba)
+      - [Improvements to the U-shaped Mamba](#212-Improvements-to-the-U-shaped-Mamba)
       - [U-shaped Mamba with other methodologies](#213-U-shaped-Mamba-with-other-methodologies)
       - [Multi-Dimensional Medical Data Segmentation](#214-Multi-Dimensional-Medical-Data-Segmentation)
     - [Pathological Diagnosis](#22-Pathological-Diagnosis)
