@@ -62,7 +62,7 @@ If you find this repository is useful for you, please cite our paper:
     - [Deformable Image Registration](#23-Deformable-Image-Registration)
     - [Medical Image Reconstruction](#24-Medical-Image-Reconstruction)
     - [Other Medical Tasks](#25-Other-Medical-Tasks)
-- [Other Domains](#other-domains)
+- [Other Domains](#other-domains) <br/>
 
 
 
