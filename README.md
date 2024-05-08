@@ -13,7 +13,7 @@ liuxiao@stu.cqu.edu.cn, zhangchenxu@cqu.edu.cn, leizhang@cqu.edu.cn
 
 ## 📢 Update Log
 
-- 
+- 2024.05.07: Our paper is released! [arXiv](https://arxiv.org/abs/2405.04404)
 
 
 
