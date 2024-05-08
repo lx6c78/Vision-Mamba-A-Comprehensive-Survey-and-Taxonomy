@@ -21,7 +21,14 @@
 If you find this repository is useful for you, please cite our paper:
 
 ```
-X. Liu, C. Zhang, L. Zhang, "Vision Mamba: A Comprehensive Survey and Taxonomy," arXiv, 2024.
+@misc{liu2024vision,
+      title={Vision Mamba: A Comprehensive Survey and Taxonomy}, 
+      author={Xiao Liu and Chenxu Zhang and Lei Zhang},
+      year={2024},
+      eprint={2405.04404},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
 
 
