@@ -147,6 +147,8 @@ If you find this repository is useful for you, please cite our paper:
   *Qianning Wang, Chenglin Wang, Zhixin Lai, Yucheng Zhou.*<br/>[[Paper](https://arxiv.org/abs/2404.03611)]
 - **MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection.** [17 March, 2024] [ArXiv, 2024]<br/>
   *Tianxiang Chen, Zhentao Tan, Tao Gong, Qi Chu, Yue Wu, Bin Liu, Jieping Ye, Nenghai Yu.*<br/>[[Paper](https://arxiv.org/abs/2403.02148)] [[Code](https://github.com/txchen-USTC/MiM-ISTD)]
+- **MemoryMamba: Memory-Augmented State Space Model for Defect Recognition.** [6 May, 2024] [ArXiv, 2024] <br/>
+  *Qianning Wang, He Hu, Yucheng Zhou.*<br/>[[Paper](https://arxiv.org/abs/2405.03673)]
 
 ### 2 Low-level Vision
 
