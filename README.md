@@ -172,6 +172,8 @@ If you find this repository is useful for you, please cite our paper:
 - **VmambaIR: Visual State Space Model for Image Restoration.** [17 March, 2024] [ArXiv, 2024]<br/>
   *Yuan Shi, Bin Xia, Xiaoyu Jin, Xing Wang, Tianyu Zhao, Xin Xia, Xuefeng Xiao, Wenming Yang.*<br/>
   [[Paper](https://arxiv.org/abs/2403.11423)] [[Code](https://github.com/AlphacatPlus/VmambaIR)]
+- **Retinexmamba: Retinex-based Mamba for Low-light Image Enhancement.** [6 May, 2024] [ArXiv, 2024]<br/>
+  *Jiesong Bai, Yuhao Yin, Qiyuan He.*<br/>[[Paper](https://arxiv.org/abs/2405.03349)] [[Code](https://github.com/YhuoyuH/RetinexMamba)]
 
 ### 3 3-D Visual Recognition
 
@@ -208,6 +210,9 @@ If you find this repository is useful for you, please cite our paper:
 - **Matten: Video Generation with Mamba-Attention.**  [5 May, 2024] [ArXiv, 2024]<br/>
   *Yu Gao, Jiancheng Huang, Xiaopeng Sun, Zequn Jie, Yujie Zhong, Lin Ma.*<br/>
   [[Paper](https://arxiv.org/abs/2405.03025)]
+- **SMCD: High Realism Motion Style Transfer via Mamba-based Diffusion.** [5 May, 2024] [ArXiv, 2024]<br/>
+  *Ziyun Qian, Zeyu Xiao, Zhenyi Wu, Dingkang Yang, Mingcheng Li, Shunli Wang, Shuaibing Wang, Dongliang Kou, Lihua Zhang.*<br/>
+  [[Paper](https://arxiv.org/abs/2405.02844)]
 
 
 
