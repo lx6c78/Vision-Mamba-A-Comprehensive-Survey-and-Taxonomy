@@ -14,6 +14,7 @@ liuxiao@stu.cqu.edu.cn, zhangchenxu@cqu.edu.cn, leizhang@cqu.edu.cn
 ## 📢 Update Log
 
 - 2024.05.07: Our paper is released! [[arXiv](https://arxiv.org/abs/2405.04404)]
+- 2024.05.18: Added "Latest Visual Mamba Papers" column. We plan to update these papers in subsequent versions of our survey.
 
 
 
@@ -37,6 +38,8 @@ If you find this repository is useful for you, please cite our paper:
 ## Contents
 
 - [Related Survey](#Related-Survey)
+- [Latest vision Mamba paper](#Latest-vision-Mamba-paper)
+- [General Vision](#General-Vision)
   - [High-level/Mid-level Vision](#1-High-levelMid-level-Vision)
     - [Vision Backbone with Mamba](#11-Vision-Backbone-with-Mamba)
     - [Video Analysis and Understanding](#12-Video-Analysis-and-Understanding)
@@ -90,7 +93,71 @@ If you find this repository is useful for you, please cite our paper:
   [[Paper](https://arxiv.org/abs/2404.18861)] [[Gihub](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List)]
 
 
+## Latest vision Mamba paper
 
+> We plan to update these papers in subsequent versions of our survey.
+
+* **CLIP-Mamba: CLIP Pretrained Mamba Models with OOD and Hessian Evaluation.** [30 April, 2024] [ArXiv, 2024]<br/>
+  *Weiquan Huang, Yifei Shen, Yifan Yang.*<br/>
+  [[Paper](https://arxiv.org/abs/2404.19394)] [[Code](https://github.com/raytrun/mamba-clip)]
+* **SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients.** [5 May, 2024] [ArXiv, 2024]<br/>*Tushar Verma, Jyotsna Singh, Yash Bhartari, Rishi Jarwal, Suraj Singh, Shubhkarman Singh.*<br/>[[Paper](https://arxiv.org/abs/2405.01699)] [[Code](https://github.com/yash2629/S.O.A.R)]
+* **SSUMamba: Spatial-Spectral Selective State Space Model for Hyperspectral Image Denoising.** [15 May, 2024] [ArXiv, 2024]<br/>*Guanyiman Fu, Fengchao Xiong, Jianfeng Lu, Jun Zhou, Yuntao Qian.*<br/>
+  [[Paper](https://arxiv.org/abs/2405.01726)] [[Code](https://github.com/lronkitty/SSUMamba)]
+* **FER-YOLO-Mamba: Facial Expression Detection and Classification Based on Selective State Space.** [9 May, 2024] [ArXiv, 2024]<br/>
+  *Hui Ma, Sen Lei, Turgay Celik, Heng-Chao Li.*<br/>
+  [[Paper](https://arxiv.org/abs/2405.01828)] [[Code](https://github.com/SwjtuMa/FER-YOLO-Mamba)]
+* **SMCD: High Realism Motion Style Transfer via Mamba-based Diffusion.** [5 May, 2024] [ArXiv, 2024]<br.>
+  *Ziyun Qian, Zeyu Xiao, Zhenyi Wu, Dingkang Yang, Mingcheng Li, Shunli Wang, Shuaibing Wang, Dongliang Kou, Lihua Zhang.*<br/>
+  [[Paper](https://arxiv.org/abs/2405.02844)]
+* **DVMSR: Distillated Vision Mamba for Efficient Super-Resolution.** [11 May, 2024] [ArXiv, 2024]<br/>
+  *Xiaoyan Lei, Wenlong Zhang, Weifeng Cao.*<br/>
+  [[Paper](https://arxiv.org/abs/2405.03008)] [[Code](https://github.com/nathan66666/DVMSR)]
+* **AC-MAMBASEG: An adaptive convolution and Mamba-based architecture for enhanced skin lesion segmentation.** [5 May, 2024] [ArXiv, 2024]<br/>
+  *Xiaoyan Lei, Wenlong Zhang, Weifeng Cao.*<br/>
+  [[Paper](https://arxiv.org/abs/2405.03011)] [[Code](https://github.com/vietthanh2710/AC-MambaSeg)]
+* **Retinexmamba: Retinex-based Mamba for Low-light Image Enhancement.** [6 May, 2024] [ArXiv, 2024]<br/>
+  *Jiesong Bai, Yuhao Yin, Qiyuan He.*<br/>
+  [[Paper](https://arxiv.org/abs/2405.03349)] [[Code](https://github.com/YhuoyuH/RetinexMamba)]
+* **VMambaCC: A Visual State Space Model for Crowd Counting.** [6 May, 2024] [ArXiv, 2024]<br/>
+  *Hao-Yuan Ma, Li Zhang, Shuai Shi.*<br/>
+  [[Paper](https://arxiv.org/abs/2405.03978)]
+* **Traj-LLM: A New Exploration for Empowering Trajectory Prediction with Pre-trained Large Language Models.** [8 May, 2024] [ArXiv, 2024]<br/>
+  *Zhengxing Lan, Hongbo Li, Lingshan Liu, Bo Fan, Yisheng Lv, Yilong Ren, Zhiyong Cui.*<br/>
+  [[Paper](https://arxiv.org/abs/2405.04909)]
+* **Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution.** [8 May, 2024] [ArXiv, 2024]<br/>
+  *Yi Xiao, Qiangqiang Yuan, Kui Jiang, Yuzeng Chen, Qiang Zhang, Chia-Wen Lin.*<br/>
+  [[Paper](https://arxiv.org/abs/2405.04964)]
+* **HC-Mamba: Vision MAMBA with Hybrid Convolutional Techniques for Medical Image Segmentation.** [11 May, 2024] [ArXiv, 2024]<br/>
+  *Jiashu Xu.*<br/>
+  [[Paper](https://arxiv.org/abs/2405.03349)]
+* **VM-DDPM: Vision Mamba Diffusion for Medical Image Synthesis.** [9 May, 2024] [ArXiv, 2024]<br/>
+  *Zhihan Ju, Wanting Zhou.*<br/>
+  [[Paper](https://arxiv.org/abs/2405.05667)]
+* **Rethinking Efficient and Effective Point-based Networks for Event Camera Classification and Regression: EventMamba.** [9 May, 2024] [ArXiv, 2024]<br/>
+  *Hongwei Ren, Yue Zhou, Jiadong Zhu, Haotian Fu, Yulong Huang, Xiaopeng Lin, Yuetong Fang, Fei Ma, Hao Yu, Bojun Cheng.*<br/>
+  [[Paper](https://arxiv.org/abs/2405.06116)]
+* **Sakuga-42M Dataset: Scaling Up Cartoon Research.** [12 May, 2024] [ArXiv, 2024]<br/>
+  *Zhenglin Pan, Yu Zhu, Yuxuan Mu.*<br/>
+  [[Paper](https://arxiv.org/abs/2405.07425)] [[Code](https://github.com/zhenglinpan/SakugaDataset)]
+* **GMSR:Gradient-Guided Mamba for Spectral Reconstruction from RGB Images.** [13 May, 2024] [ArXiv, 2024]<br/>
+  *Xinying Wang, Zhixiong Huang, Sifan Zhang, Jiawen Zhu, Lin Feng.*<br/>
+  [[Paper](https://arxiv.org/abs/2405.07777)] [[Code](https://github.com/wxy11-27/GMSR)]
+* **OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition.** [13 May, 2024] [ArXiv, 2024]<br/>
+  *Qiuchi Xiang, Jintao Cheng, Jiehao Luo, Jin Wu, Rui Fan, Xieyuanli Chen, Xiaoyu Tang.*<br/>
+  [[Paper](https://arxiv.org/abs/2405.07966)]
+* **MambaOut: Do We Really Need Mamba for Vision?** [14 May, 2024] [ArXiv, 2024]<br/>
+  *Weihao Yu, Xinchao Wang.*<br/>
+  [[Paper](https://arxiv.org/abs/2405.07992)] [[Code](https://github.com/yuweihao/MambaOut)]
+* **Rethinking Scanning Strategies with Vision Mamba in Semantic Segmentation of Remote Sensing Imagery: An Experimental Study.** [14 May, 2024] [ArXiv, 2024]<br/>
+  *Qinfeng Zhu, Yuan Fang, Yuanzhi Cai, Cheng Chen, Lei Fan.*<br/>
+  [[Paper](https://arxiv.org/abs/2405.08493)]
+* **IRSRMamba: Infrared Image Super-Resolution via Mamba-based Wavelet Transform Feature Modulation Model.** [16 May, 2024] [ArXiv, 2024]<br/>
+  *Yongsong Huang, Tomo Miyazaki, Xiaofeng Liu, Shinichiro Omachi.*<br/>
+  [[Paper](https://arxiv.org/abs/2405.09873)] [[Code](https://github.com/yongsongH/IRSRMamba)]
+* **RSDehamba: Lightweight Vision Mamba for Remote Sensing Satellite Image Dehazing.** [16 May, 2024] [ArXiv, 2024]<br/>
+  *Huiling Zhou, Xianhao Wu, Hongming Chen, Xiang Chen, Xin He.*<br/>
+  [[Paper](https://arxiv.org/abs/2405.10030)]
+  
 
 ## General Vision
 
