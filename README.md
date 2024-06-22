@@ -281,6 +281,17 @@ If you find this repository is useful for you, please cite our paper:
 * **On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models.** [12 June, 2024] [ArXiv, 2024]<br/>
   *Hashmat Shadab Malik, Numan Saeed, Asif Hanif, Muzammal Naseer, Mohammad Yaqub, Salman Khan, Fahad Shahbaz Khan.*<br/>
   [[Paper](https://arxiv.org/abs/2406.08486)] [[Code](https://github.com/HashmatShadab/Robustness-of-Volumetric-Medical-Segmentation-Models)]
+* **Q-Mamba: On First Exploration of Vision Mamba for Image Quality Assessment.** [13 June, 2024] [ArXiv, 2024]<br/>
+  *Fengbin Guan, Xin Li, Zihao Yu, Yiting Lu, Zhibo Chen.*<br/>
+  [[Paper](https://arxiv.org/abs/2406.09546)]
+* **Voxel Mamba: Group-Free State Space Models for Point Cloud based 3D Object Detection.** [18 June, 2024] [ArXiv, 2024]<br/>
+  *Guowen Zhang, Lue Fan, Chenhang He, Zhen Lei, Zhaoxiang Zhang, Lei Zhang.*<br/>
+  [[Paper](https://arxiv.org/abs/2406.10700)] [[Code](https://github.com/gwenzhang/Voxel-Mamba)]
+* **PyramidMamba: Rethinking Pyramid Feature Fusion with Selective Space State Model for Semantic Segmentation of Remote Sensing Imagery.** [16 June, 2024] [ArXiv, 2024]<br/>
+  *Libo Wang, Dongxu Li, Sijun Dong, Xiaoliang Meng, Xiaokang Zhang, Danfeng Hong.*<br/>
+  [[Paper](https://arxiv.org/abs/2406.10828)] [[Code](https://github.com/WangLibo1995/GeoSeg)]
+* **LFMamba: Light Field Image Super-Resolution with State Space Model.** [18 June, 2024] [ArXiv, 2024]<br/>
+  *Wang xia, Yao Lu, Shunzhou Wang, Ziqi Wang, Peiqi Xia, Tianfei Zhou.*<br/>[[Paper](https://arxiv.org/abs/2406.12463)]
 
 ## General Vision
 
@@ -379,6 +390,12 @@ If you find this repository is useful for you, please cite our paper:
 - **MambaDepth: Enhancing Long-range Dependency for Self-Supervised Fine-Structured Monocular Depth Estimation.** [6 June, 2024] [ArXiv, 2024]<br/>
   *Ionuţ Grigore, Călin-Adrian Popa.*<br/>
   [[Paper](https://arxiv.org/abs/2406.04532)] [[Code](https://github.com/ionut-grigore99/MambaDepth)]
+- **Q-Mamba: On First Exploration of Vision Mamba for Image Quality Assessment.** [13 June, 2024] [ArXiv, 2024]<br/>
+  *Fengbin Guan, Xin Li, Zihao Yu, Yiting Lu, Zhibo Chen.*<br/>
+  [[Paper](https://arxiv.org/abs/2406.09546)]
+- **Voxel Mamba: Group-Free State Space Models for Point Cloud based 3D Object Detection.** [18 June, 2024] [ArXiv, 2024]<br/>
+  *Guowen Zhang, Lue Fan, Chenhang He, Zhen Lei, Zhaoxiang Zhang, Lei Zhang.*<br/>
+  [[Paper](https://arxiv.org/abs/2406.10700)] [[Code](https://github.com/gwenzhang/Voxel-Mamba)]
 
 ### 2 Low-level Vision
 
@@ -434,6 +451,8 @@ If you find this repository is useful for you, please cite our paper:
 - **Dual Hyperspectral Mamba for Efficient Spectral Compressive Imaging.** [1 June, 2024] [ArXiv, 2024]<br/>
   *Jiahua Dong, Hui Yin, Hongliu Li, Wenbo Li, Yulun Zhang, Salman Khan, Fahad Shahbaz Khan.*<br/>
   [[Paper](https://arxiv.org/abs/2406.00449)] [[Code](https://github.com/JiahuaDong/DHM)]
+- **LFMamba: Light Field Image Super-Resolution with State Space Model.** [18 June, 2024] [ArXiv, 2024]<br/>
+  *Wang xia, Yao Lu, Shunzhou Wang, Ziqi Wang, Peiqi Xia, Tianfei Zhou.*<br/>[[Paper](https://arxiv.org/abs/2406.12463)]
 
 ### 3 3-D Visual Recognition
 
@@ -634,6 +653,9 @@ If you find this repository is useful for you, please cite our paper:
 - **CM-UNet: Hybrid CNN-Mamba UNet for Remote Sensing Image Semantic Segmentation.** [17 May, 2024] [ArXiv, 2024]<br/>
   *Mushui Liu, Jun Dan, Ziqian Lu, Yunlong Yu, Yingming Li, Xi Li.*<br/>
   [[Paper](https://arxiv.org/abs/2405.10530)] [[Code](https://github.com/XiaoBuL/CM-UNet)]
+- **PyramidMamba: Rethinking Pyramid Feature Fusion with Selective Space State Model for Semantic Segmentation of Remote Sensing Imagery.** [16 June, 2024] [ArXiv, 2024]<br/>
+  *Libo Wang, Dongxu Li, Sijun Dong, Xiaoliang Meng, Xiaokang Zhang, Danfeng Hong.*<br/>
+  [[Paper](https://arxiv.org/abs/2406.10828)] [[Code](https://github.com/WangLibo1995/GeoSeg)]
 
 #### 1.5 Remote Sensing Image Fusion
 
