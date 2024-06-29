@@ -292,6 +292,33 @@ If you find this repository is useful for you, please cite our paper:
   [[Paper](https://arxiv.org/abs/2406.10828)] [[Code](https://github.com/WangLibo1995/GeoSeg)]
 * **LFMamba: Light Field Image Super-Resolution with State Space Model.** [18 June, 2024] [ArXiv, 2024]<br/>
   *Wang xia, Yao Lu, Shunzhou Wang, Ziqi Wang, Peiqi Xia, Tianfei Zhou.*<br/>[[Paper](https://arxiv.org/abs/2406.12463)]
+* **Seg-LSTM: Performance of xLSTM for Semantic Segmentation of Remotely Sensed Images.** [20 June, 2024] [ArXiv, 2024]<br/>
+  *Qinfeng Zhu, Yuanzhi Cai, Lei Fan.*<br/>
+  [[Paper](https://arxiv.org/abs/2406.14086)] [[Code](https://github.com/zhuqinfeng1999/Seg-LSTM)]
+* **Soft Masked Mamba Diffusion Model for CT to MRI Conversion.** [22 June, 2024] [ArXiv, 2024]<br/>
+  *Zhenbin Wang, Lei Zhang, Lituan Wang, Zhenwei Zhang.*<br/>
+  [[Paper](https://arxiv.org/abs/2406.15910)] [[Code](https://github.com/wongzbb/DiffMa-Diffusion-Mamba)]
+* **Mamba-based Light Field Super-Resolution with Efficient Subspace Scanning.** [23 June, 2024] [ArXiv, 2024]<br/>
+  *Ruisheng Gao, Zeyu Xiao, Zhiwei Xiong.*<br/>
+  [[Paper](https://arxiv.org/abs/2406.16083)]
+* **Vision Mamba-based autonomous crack segmentation on concrete, asphalt, and masonry surfaces.** [24 June, 2024] [ArXiv, 2024]<br/>
+  *Zhaohui Chen, Elyas Asadi Shamsabadi, Sheng Jiang, Luming Shen, Daniel Dias-da-Costa.*<br/>
+  [[Paper](https://arxiv.org/abs/2406.16518)]
+* **Mamba24/8D: Enhancing Global Interaction in Point Clouds via State Space Model.** [25 June, 2024] [ArXiv, 2024]<br/>
+  *Zhuoyuan Li, Yubo Ai, Jiahao Lu, ChuXin Wang, Jiacheng Deng, Hanzhi Chang, Yanzhe Liang, Wenfei Yang, Shifeng Zhang, Tianzhu Zhang.*<br/>
+  [[Paper](https://arxiv.org/abs/2406.17442)]
+* **SUM: Saliency Unification through Mamba for Visual Attention Modeling.** [25 June, 2024] [ArXiv, 2024]<br/>
+  *Alireza Hosseini, Amirhossein Kazerouni, Saeed Akhavan, Michael Brudno, Babak Taati.*<br/>
+  [[Paper](https://arxiv.org/abs/2406.17815)] [[Code](https://github.com/Arhosseini77/SUM)]
+* **MMR-Mamba: Multi-Contrast MRI Reconstruction with Mamba and Spatial-Frequency Information Fusion.** [27 June, 2024] [ArXiv, 2024]<br/>
+  *Jing Zou, Lanqing Liu, Qi Chen, Shujun Wang, Xiaohan Xing, Jing Qin.*<br/>
+  [[Paper](https://arxiv.org/abs/2406.18950)]
+* **VideoMambaPro: A Leap Forward for Mamba in Video Understanding.** [27 June, 2024] [ArXiv, 2024]<br/>
+  *Hui Lu, Albert Ali Salah, Ronald Poppe.*<br/>
+  [[Paper](https://arxiv.org/abs/2406.19006)] [[Code](https://github.com/hotfinda/VideoMambaPro)]
+* **Mamba or RWKV: Exploring High-Quality and High-Efficiency Segment Anything Model.** [27 June, 2024] [ArXiv, 2024]<br/>
+  *Haobo Yuan, Xiangtai Li, Lu Qi, Tao Zhang, Ming-Hsuan Yang, Shuicheng Yan, Chen Change Loy.*<br/>
+  [[Paper](https://arxiv.org/abs/2406.19369)] [[Code](https://github.com/HarborYuan/ovsam)]
 
 ## General Vision
 
@@ -350,6 +377,9 @@ If you find this repository is useful for you, please cite our paper:
 - **Autoregressive Pretraining with Mamba in Vision.** [11 June, 2024] [ArXiv, 2024]<br/>
   *Sucheng Ren, Xianhang Li, Haoqin Tu, Feng Wang, Fangxun Shu, Lei Zhang, Jieru Mei, Linjie Yang, Peng Wang, Heng Wang, Alan Yuille, Cihang Xie.*<br/>
   [[Paper](https://arxiv.org/abs/2406.07537)] [[Code](https://github.com/OliverRensu/ARM)]
+- **Mamba or RWKV: Exploring High-Quality and High-Efficiency Segment Anything Model.** [27 June, 2024] [ArXiv, 2024]<br/>
+  *Haobo Yuan, Xiangtai Li, Lu Qi, Tao Zhang, Ming-Hsuan Yang, Shuicheng Yan, Chen Change Loy.*<br/>
+  [[Paper](https://arxiv.org/abs/2406.19369)] [[Code](https://github.com/HarborYuan/ovsam)]
 
 #### 1.2 Video Analysis and Understanding
 
@@ -362,6 +392,12 @@ If you find this repository is useful for you, please cite our paper:
 - **RhythmMamba: Fast Remote Physiological Measurement with Arbitrary Length Videos.** [9 April, 2024] [ArXiv, 2024] <br/>
   *Bochao Zou, Zizheng Guo, Xiaocheng Hu, Huimin Ma.*<br/>
   [[Paper](https://arxiv.org/abs/2404.06483)] [[Code](https://github.com/zizheng-guo/RhythmMamba)]
+- **VideoMambaPro: A Leap Forward for Mamba in Video Understanding.** [27 June, 2024] [ArXiv, 2024]<br/>
+  *Hui Lu, Albert Ali Salah, Ronald Poppe.*<br/>
+  [[Paper](https://arxiv.org/abs/2406.19006)] [[Code](https://github.com/hotfinda/VideoMambaPro)]
+- **DeMamba: AI-Generated Video Detection on Million-Scale GenVideo Benchmark.** [30 May, 2024] [ArXiv, 2024]<br/>
+  *Haoxing Chen, Yan Hong, Zizheng Huang, Zhuoer Xu, Zhangxuan Gu, Yaohui Li, Jun Lan, Huijia Zhu, Jianfu Zhang, Weiqiang Wang, Huaxiong Li.*<br/>
+  [[Paper](https://arxiv.org/abs/2405.19707)] [[Code](https://github.com/chenhaoxing/DeMamba)]
 
 #### 1.3 Down-stream Visual Applications
 
@@ -384,9 +420,6 @@ If you find this repository is useful for you, please cite our paper:
 - **TokenUnify: Scalable Autoregressive Visual Pre-training with Mixture Token Prediction.** [27 May, 2024] [ArXiv, 2024]<br/>
   *Yinda Chen, Haoyuan Shi, Xiaoyu Liu, Te Shi, Ruobing Zhang, Dong Liu, Zhiwei Xiong, Feng Wu.*<br/>
   [[Paper](https://arxiv.org/abs/2405.16847)] [[Code](https://github.com/ydchen0806/TokenUnify)]
-- **DeMamba: AI-Generated Video Detection on Million-Scale GenVideo Benchmark.** [30 May, 2024] [ArXiv, 2024]<br/>
-  *Haoxing Chen, Yan Hong, Zizheng Huang, Zhuoer Xu, Zhangxuan Gu, Yaohui Li, Jun Lan, Huijia Zhu, Jianfu Zhang, Weiqiang Wang, Huaxiong Li.*<br/>
-  [[Paper](https://arxiv.org/abs/2405.19707)] [[Code](https://github.com/chenhaoxing/DeMamba)]
 - **MambaDepth: Enhancing Long-range Dependency for Self-Supervised Fine-Structured Monocular Depth Estimation.** [6 June, 2024] [ArXiv, 2024]<br/>
   *Ionuţ Grigore, Călin-Adrian Popa.*<br/>
   [[Paper](https://arxiv.org/abs/2406.04532)] [[Code](https://github.com/ionut-grigore99/MambaDepth)]
@@ -396,6 +429,12 @@ If you find this repository is useful for you, please cite our paper:
 - **Voxel Mamba: Group-Free State Space Models for Point Cloud based 3D Object Detection.** [18 June, 2024] [ArXiv, 2024]<br/>
   *Guowen Zhang, Lue Fan, Chenhang He, Zhen Lei, Zhaoxiang Zhang, Lei Zhang.*<br/>
   [[Paper](https://arxiv.org/abs/2406.10700)] [[Code](https://github.com/gwenzhang/Voxel-Mamba)]
+- **Vision Mamba-based autonomous crack segmentation on concrete, asphalt, and masonry surfaces.** [24 June, 2024] [ArXiv, 2024]<br/>
+  *Zhaohui Chen, Elyas Asadi Shamsabadi, Sheng Jiang, Luming Shen, Daniel Dias-da-Costa.*<br/>
+  [[Paper](https://arxiv.org/abs/2406.16518)]
+- **SUM: Saliency Unification through Mamba for Visual Attention Modeling.** [25 June, 2024] [ArXiv, 2024]<br/>
+  *Alireza Hosseini, Amirhossein Kazerouni, Saeed Akhavan, Michael Brudno, Babak Taati.*<br/>
+  [[Paper](https://arxiv.org/abs/2406.17815)] [[Code](https://github.com/Arhosseini77/SUM)]
 
 ### 2 Low-level Vision
 
@@ -453,6 +492,9 @@ If you find this repository is useful for you, please cite our paper:
   [[Paper](https://arxiv.org/abs/2406.00449)] [[Code](https://github.com/JiahuaDong/DHM)]
 - **LFMamba: Light Field Image Super-Resolution with State Space Model.** [18 June, 2024] [ArXiv, 2024]<br/>
   *Wang xia, Yao Lu, Shunzhou Wang, Ziqi Wang, Peiqi Xia, Tianfei Zhou.*<br/>[[Paper](https://arxiv.org/abs/2406.12463)]
+- **Mamba-based Light Field Super-Resolution with Efficient Subspace Scanning.** [23 June, 2024] [ArXiv, 2024]<br/>
+  *Ruisheng Gao, Zeyu Xiao, Zhiwei Xiong.*<br/>
+  [[Paper](https://arxiv.org/abs/2406.16083)]
 
 ### 3 3-D Visual Recognition
 
@@ -491,6 +533,9 @@ If you find this repository is useful for you, please cite our paper:
 - **PointABM:Integrating Bidirectional State Space Model with Multi-Head Self-Attention for Point Cloud Analysis.** [10 June, 2024] [ArXiv, 2024]<br/>
   *Jia-wei Chen, Yu-jie Xiong, Yong-bin Gao.*<br/>
   [[Paper](https://arxiv.org/abs/2406.06069)]
+- **Mamba24/8D: Enhancing Global Interaction in Point Clouds via State Space Model.** [25 June, 2024] [ArXiv, 2024]<br/>
+  *Zhuoyuan Li, Yubo Ai, Jiahao Lu, ChuXin Wang, Jiacheng Deng, Hanzhi Chang, Yanzhe Liang, Wenfei Yang, Shifeng Zhang, Tianzhu Zhang.*<br/>
+  [[Paper](https://arxiv.org/abs/2406.17442)]
 
 #### 3.2 Hyperspectral Imaging Analysis
 
@@ -656,6 +701,9 @@ If you find this repository is useful for you, please cite our paper:
 - **PyramidMamba: Rethinking Pyramid Feature Fusion with Selective Space State Model for Semantic Segmentation of Remote Sensing Imagery.** [16 June, 2024] [ArXiv, 2024]<br/>
   *Libo Wang, Dongxu Li, Sijun Dong, Xiaoliang Meng, Xiaokang Zhang, Danfeng Hong.*<br/>
   [[Paper](https://arxiv.org/abs/2406.10828)] [[Code](https://github.com/WangLibo1995/GeoSeg)]
+- **Seg-LSTM: Performance of xLSTM for Semantic Segmentation of Remotely Sensed Images.** [20 June, 2024] [ArXiv, 2024]<br/>
+  *Qinfeng Zhu, Yuanzhi Cai, Lei Fan.*<br/>
+  [[Paper](https://arxiv.org/abs/2406.14086)] [[Code](https://github.com/zhuqinfeng1999/Seg-LSTM)]
 
 #### 1.5 Remote Sensing Image Fusion
 
@@ -804,24 +852,37 @@ If you find this repository is useful for you, please cite our paper:
 - **Enhancing Global Sensitivity and Uncertainty Quantification in Medical Image Reconstruction with Monte Carlo Arbitrary-Masked Mamba.** [27 May, 2024] [ArXiv, 2024]<br/>
   *Jiahao Huang, Liutao Yang, Fanwen Wang, Yinzhe Wu, Yang Nan, Weiwen Wu, Chengyan Wang, Kuangyu Shi, Angelica I. Aviles-Rivero, Carola-Bibiane Schönlieb, Daoqiang Zhang, Guang Yang.*<br/>
   [[Paper](https://arxiv.org/abs/2405.17680)]
+- **MMR-Mamba: Multi-Contrast MRI Reconstruction with Mamba and Spatial-Frequency Information Fusion.** [27 June, 2024] [ArXiv, 2024]<br/>
+  *Jing Zou, Lanqing Liu, Qi Chen, Shujun Wang, Xiaohan Xing, Jing Qin.*<br/>
+  [[Paper](https://arxiv.org/abs/2406.18950)]
 
 #### 2.5 Other Medical Tasks
 
 - **MD-Dose: A Diffusion Model based on the Mamba for Radiotherapy Dose Prediction.** [13 March, 2024] [ArXiv, 2024]<br/>
   *Linjie Fu, Xia Li, Xiuding Cai, Yingkai Wang, Xueyao Wang, Yali Shen, Yu Yao.*<br/>
   [[Paper](https://arxiv.org/abs/2403.08479)] [[Code](https://github.com/LinjieFu-U/mamba_dose)]
+
 - **Motion-Guided Dual-Camera Tracker for Low-Cost Skill Evaluation of Gastric Endoscopy.** [20 April, 2024] [ArXiv, 2024]<br/>
   *Yuelin Zhang, Wanquan Yan, Kim Yan, Chun Ping Lam, Yufu Qiu, Pengyu Zheng, Raymond Shing-Yan Tang, Shing Shin Cheng.*<br/>
   [[Paper](https://arxiv.org/abs/2403.05146)] [[Code](https://github.com/PieceZhang/MotionDCTrack)]
+
 - **VM-DDPM: Vision Mamba Diffusion for Medical Image Synthesis.** [9 May, 2024] [ArXiv, 2024]<br/>
   *Zhihan Ju, Wanting Zhou.*<br/>
   [[Paper](https://arxiv.org/abs/2405.05667)]
+
 - **I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling.** [22 May, 2024] [ArXiv, 2024]<br/>
   *Omer F. Atli, Bilal Kabas, Fuat Arslan, Mahmut Yurt, Onat Dalmaz, Tolga Çukur.*<br/>
   [[Paper](https://arxiv.org/abs/2405.14022)] [[Code](https://github.com/icon-lab/I2I-Mamba)]
+
 - **On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models.** [12 June, 2024] [ArXiv, 2024]<br/>
   *Hashmat Shadab Malik, Numan Saeed, Asif Hanif, Muzammal Naseer, Mohammad Yaqub, Salman Khan, Fahad Shahbaz Khan.*<br/>
   [[Paper](https://arxiv.org/abs/2406.08486)] [[Code](https://github.com/HashmatShadab/Robustness-of-Volumetric-Medical-Segmentation-Models)]
+
+- **Soft Masked Mamba Diffusion Model for CT to MRI Conversion.** [22 June, 2024] [ArXiv, 2024]<br/>
+  *Zhenbin Wang, Lei Zhang, Lituan Wang, Zhenwei Zhang.*<br/>
+  [[Paper](https://arxiv.org/abs/2406.15910)] [[Code](https://github.com/wongzbb/DiffMa-Diffusion-Mamba)]
+
+  
 
 ## Other Domains
 
