@@ -449,7 +449,7 @@ If you find this repository is useful for you, please cite our paper:
   [[Paper](https://arxiv.org/abs/2405.03349)] [[Code](https://github.com/YhuoyuH/RetinexMamba)]
 - **HC-Mamba: Vision MAMBA with Hybrid Convolutional Techniques for Medical Image Segmentation.** [11 May, 2024] [ArXiv, 2024]<br/>
   *Jiashu Xu.*<br/>
-  [[Paper](https://arxiv.org/abs/2405.03349)]
+  [[Paper](https://arxiv.org/abs/2405.05007)]
 - **FourierMamba: Fourier Learning Integration with State Space Models for Image Deraining.** [29 May, 2024] [ArXiv, 2024]<br/>
   *Dong Li, Yidi Liu, Xueyang Fu, Senyan Xu, Zheng-Jun Zha.*<br/>
   [[Paper](https://arxiv.org/abs/2405.19450)]
