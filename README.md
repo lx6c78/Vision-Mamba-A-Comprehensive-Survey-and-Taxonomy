@@ -447,9 +447,6 @@ If you find this repository is useful for you, please cite our paper:
 - **Retinexmamba: Retinex-based Mamba for Low-light Image Enhancement.** [6 May, 2024] [ArXiv, 2024]<br/>
   *Jiesong Bai, Yuhao Yin, Qiyuan He.*<br/>
   [[Paper](https://arxiv.org/abs/2405.03349)] [[Code](https://github.com/YhuoyuH/RetinexMamba)]
-- **HC-Mamba: Vision MAMBA with Hybrid Convolutional Techniques for Medical Image Segmentation.** [11 May, 2024] [ArXiv, 2024]<br/>
-  *Jiashu Xu.*<br/>
-  [[Paper](https://arxiv.org/abs/2405.05007)]
 - **FourierMamba: Fourier Learning Integration with State Space Models for Image Deraining.** [29 May, 2024] [ArXiv, 2024]<br/>
   *Dong Li, Yidi Liu, Xueyang Fu, Senyan Xu, Zheng-Jun Zha.*<br/>
   [[Paper](https://arxiv.org/abs/2405.19450)]
@@ -768,6 +765,9 @@ If you find this repository is useful for you, please cite our paper:
 - **MHS-VM: Multi-Head Scanning in Parallel Subspaces for Vision Mamba.** [9 June, 2024] [ArXiv, 2024]<br/>
   *Zhongping Ji.*<br/>
   [[Paper](https://arxiv.org/abs/2406.05992)] [[Code](https://github.com/PixDeep/MHS-VM)]
+- **HC-Mamba: Vision MAMBA with Hybrid Convolutional Techniques for Medical Image Segmentation.** [11 May, 2024] [ArXiv, 2024]<br/>
+  *Jiashu Xu.*<br/>
+  [[Paper](https://arxiv.org/abs/2405.05007)]
 
 ##### 2.1.3 U-shaped Mamba with other methodologies
 
