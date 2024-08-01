@@ -481,9 +481,6 @@ If you find this repository is useful for you, please cite our paper:
 - **Scalable Visual State Space Model with Fractal Scanning.** [26 May, 2024] [ArXiv, 2024]<br/>
   *Lv Tang, HaoKe Xiao, Peng-Tao Jiang, Hao Zhang, Jinwei Chen, Bo Li.*<br/>
   [[Paper](https://arxiv.org/abs/2405.14480)]
-- **GMSR:Gradient-Guided Mamba for Spectral Reconstruction from RGB Images.** [13 May, 2024] [ArXiv, 2024]<br/>
-  *Xinying Wang, Zhixiong Huang, Sifan Zhang, Jiawen Zhu, Lin Feng.*<br/>
-  [[Paper](https://arxiv.org/abs/2405.07777)] [[Code](https://github.com/wxy11-27/GMSR)]
 - **Dual Hyperspectral Mamba for Efficient Spectral Compressive Imaging.** [1 June, 2024] [ArXiv, 2024]<br/>
   *Jiahua Dong, Hui Yin, Hongliu Li, Wenbo Li, Yulun Zhang, Salman Khan, Fahad Shahbaz Khan.*<br/>
   [[Paper](https://arxiv.org/abs/2406.00449)] [[Code](https://github.com/JiahuaDong/DHM)]
@@ -545,6 +542,9 @@ If you find this repository is useful for you, please cite our paper:
 - **DualMamba: A Lightweight Spectral-Spatial Mamba-Convolution Network for Hyperspectral Image Classification.** [11 June, 2024] [ArXiv, 2024]<br/>
   *Jiamu Sheng, Jingyi Zhou, Jiong Wang, Peng Ye, Jiayuan Fan.*<br/>
   [[Paper](https://arxiv.org/abs/2406.07050)]
+- **GMSR:Gradient-Guided Mamba for Spectral Reconstruction from RGB Images.** [13 May, 2024] [ArXiv, 2024]<br/>
+  *Xinying Wang, Zhixiong Huang, Sifan Zhang, Jiawen Zhu, Lin Feng.*<br/>
+  [[Paper](https://arxiv.org/abs/2405.07777)] [[Code](https://github.com/wxy11-27/GMSR)]
 
 ### 4 Visual Data Generation
 
