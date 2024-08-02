@@ -203,9 +203,6 @@ If you find this repository is useful for you, please cite our paper:
 * **LCM: Locally Constrained Compact Point Cloud Model for Masked Point Modeling.** [27 May, 2024] [ArXiv, 2024]<br/>
   *Yaohua Zha, Naiqi Li, Yanzi Wang, Tao Dai, Hang Guo, Bin Chen, Zhi Wang, Zhihao Ouyang, Shu-Tao Xia.*<br/>
   [[Paper](https://arxiv.org/abs/2405.17149)] 
-* **Enhancing Global Sensitivity and Uncertainty Quantification in Medical Image Reconstruction with Monte Carlo Arbitrary-Masked Mamba.** [27 May, 2024] [ArXiv, 2024]<br/>
-  *Jiahao Huang, Liutao Yang, Fanwen Wang, Yinzhe Wu, Yang Nan, Weiwen Wu, Chengyan Wang, Kuangyu Shi, Angelica I. Aviles-Rivero, Carola-Bibiane Schönlieb, Daoqiang Zhang, Guang Yang.*<br/>
-  [[Paper](https://arxiv.org/abs/2405.17659)] 
 * **Deciphering Movement: Unified Trajectory Generation Model for Multi-Agent.** [27 May, 2024] [ArXiv, 2024]<br/>
   *Yi Xu, Yun Fu.*<br/>
   [[Paper](https://arxiv.org/abs/2405.17680)] [[Code](https://github.com/colorfulfuture/UniTraj-pytorch)] 
