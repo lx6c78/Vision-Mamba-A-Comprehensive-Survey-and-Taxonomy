@@ -205,7 +205,7 @@ If you find this repository is useful for you, please cite our paper:
   [[Paper](https://arxiv.org/abs/2405.17149)] 
 * **Enhancing Global Sensitivity and Uncertainty Quantification in Medical Image Reconstruction with Monte Carlo Arbitrary-Masked Mamba.** [27 May, 2024] [ArXiv, 2024]<br/>
   *Jiahao Huang, Liutao Yang, Fanwen Wang, Yinzhe Wu, Yang Nan, Weiwen Wu, Chengyan Wang, Kuangyu Shi, Angelica I. Aviles-Rivero, Carola-Bibiane Schönlieb, Daoqiang Zhang, Guang Yang.*<br/>
-  [[Paper](https://arxiv.org/abs/2405.17680)] 
+  [[Paper](https://arxiv.org/abs/2405.17659)] 
 * **Deciphering Movement: Unified Trajectory Generation Model for Multi-Agent.** [27 May, 2024] [ArXiv, 2024]<br/>
   *Yi Xu, Yun Fu.*<br/>
   [[Paper](https://arxiv.org/abs/2405.17680)] [[Code](https://github.com/colorfulfuture/UniTraj-pytorch)] 
@@ -843,9 +843,9 @@ If you find this repository is useful for you, please cite our paper:
 - **MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion.** [12 April, 2024] [ArXiv, 2024]<br/>
   *Zhe Li, Haiwei Pan, Kejia Zhang, Yuhua Wang, Fengming Yu.*<br/>
   [[Paper](https://arxiv.org/abs/2404.08406)]
-- **Enhancing Global Sensitivity and Uncertainty Quantification in Medical Image Reconstruction with Monte Carlo Arbitrary-Masked Mamba.** [27 May, 2024] [ArXiv, 2024]<br/>
+* **Enhancing Global Sensitivity and Uncertainty Quantification in Medical Image Reconstruction with Monte Carlo Arbitrary-Masked Mamba.** [27 May, 2024] [ArXiv, 2024]<br/>
   *Jiahao Huang, Liutao Yang, Fanwen Wang, Yinzhe Wu, Yang Nan, Weiwen Wu, Chengyan Wang, Kuangyu Shi, Angelica I. Aviles-Rivero, Carola-Bibiane Schönlieb, Daoqiang Zhang, Guang Yang.*<br/>
-  [[Paper](https://arxiv.org/abs/2405.17680)]
+  [[Paper](https://arxiv.org/abs/2405.17659)] 
 - **MMR-Mamba: Multi-Contrast MRI Reconstruction with Mamba and Spatial-Frequency Information Fusion.** [27 June, 2024] [ArXiv, 2024]<br/>
   *Jing Zou, Lanqing Liu, Qi Chen, Shujun Wang, Xiaohan Xing, Jing Qin.*<br/>
   [[Paper](https://arxiv.org/abs/2406.18950)]
