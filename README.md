@@ -206,9 +206,6 @@ If you find this repository is useful for you, please cite our paper:
 * **Deciphering Movement: Unified Trajectory Generation Model for Multi-Agent.** [27 May, 2024] [ArXiv, 2024]<br/>
   *Yi Xu, Yun Fu.*<br/>
   [[Paper](https://arxiv.org/abs/2405.17680)] [[Code](https://github.com/colorfulfuture/UniTraj-pytorch)] 
-* **DiG: Scalable and Efficient Diffusion Models with Gated Linear Attention.** [28 May, 2024] [ArXiv, 2024]<br/>
-  *Lianghui Zhu, Zilong Huang, Bencheng Liao, Jun Hao Liew, Hanshu Yan, Jiashi Feng, Xinggang Wang.*<br/>
-  [[Paper](https://arxiv.org/abs/2405.18428)] [[Code](https://github.com/hustvl/DiG)] 
 * **Cardiovascular Disease Detection from Multi-View Chest X-rays with BI-Mamba.** [28 May, 2024] [ArXiv, 2024]<br/>
   *Zefan Yang, Jiajin Zhang, Ge Wang, Mannudeep K. Kalra, Pingkun Yan.*<br/>
   [[Paper](https://arxiv.org/abs/2405.18533)] 
@@ -561,9 +558,6 @@ If you find this repository is useful for you, please cite our paper:
 - **Deciphering Movement: Unified Trajectory Generation Model for Multi-Agent.** [27 May, 2024] [ArXiv, 2024]<br/>
   *Yi Xu, Yun Fu.*<br/>
   [[Paper](https://arxiv.org/abs/2405.17680)] [[Code](https://github.com/colorfulfuture/UniTraj-pytorch)]
-- **DiG: Scalable and Efficient Diffusion Models with Gated Linear Attention.** [28 May, 2024] [ArXiv, 2024]<br/>
-  *Lianghui Zhu, Zilong Huang, Bencheng Liao, Jun Hao Liew, Hanshu Yan, Jiashi Feng, Xinggang Wang.*<br/>
-  [[Paper](https://arxiv.org/abs/2405.18428)] [[Code](https://github.com/hustvl/DiG)]
 - **Dimba: Transformer-Mamba Diffusion Models.** [3 June, 2024] [ArXiv, 2024]<br/>
   *Zhengcong Fei, Mingyuan Fan, Changqian Yu, Debang Li, Youqiang Zhang, Junshi Huang.*<br/>
   [[Paper](https://arxiv.org/abs/2406.01159)] [[Homepage](https://dimba-project.github.io/)] [[Code](https://github.com/feizc/Dimba)]
