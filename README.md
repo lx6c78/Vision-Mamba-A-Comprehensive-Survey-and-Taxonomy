@@ -182,9 +182,6 @@ If you find this repository is useful for you, please cite our paper:
 * **Mamba-R: Vision Mamba ALSO Needs Registers.** [23 May, 2024] [ArXiv, 2024]<br/>
   *Feng Wang, Jiahao Wang, Sucheng Ren, Guoyizhe Wei, Jieru Mei, Wei Shao, Yuyin Zhou, Alan Yuille, Cihang Xie.*<br/>
   [[Paper](https://arxiv.org/abs/2405.14858)] [[Homepage](https://wangf3014.github.io/mambar-page/)] [[Code](https://github.com/wangf3014/Mamba-Reg)] 
-* **PointRWKV: Efficient RWKV-Like Model for Hierarchical Point Cloud Learning.** [24 May, 2024] [ArXiv, 2024]<br/>
-  *Qingdong He, Jiangning Zhang, Jinlong Peng, Haoyang He, Yabiao Wang, Chengjie Wang.*<br/>
-  [[Paper](https://arxiv.org/abs/2405.15214)] [[Code](https://hithqd.github.io/projects/PointRWKV/)] 
 * **PoinTramba: A Hybrid Transformer-Mamba Framework for Point Cloud Analysis.** [24 May, 2024] [ArXiv, 2024]<br/>
   *Zicheng Wang, Zhenghao Chen, Yiming Wu, Zhen Zhao, Luping Zhou, Dong Xu.*<br/>
   [[Paper](https://arxiv.org/abs/2405.15463)] [[Code](https://github.com/xiaoyao3302/PoinTramba)] 
@@ -512,9 +509,6 @@ If you find this repository is useful for you, please cite our paper:
 - **MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models.** [23 May, 2024] [ArXiv, 2024]<br/>
   *Jiuming Liu, Jinru Han, Lihao Liu, Angelica I. Aviles-Rivero, Chaokang Jiang, Zhe Liu, Hesheng Wang.*<br/>
   [[Paper](https://arxiv.org/abs/2405.14338)]
-- **PointRWKV: Efficient RWKV-Like Model for Hierarchical Point Cloud Learning.** [24 May, 2024] [ArXiv, 2024]<br/>
-  *Qingdong He, Jiangning Zhang, Jinlong Peng, Haoyang He, Yabiao Wang, Chengjie Wang.*<br/>
-  [[Paper](https://arxiv.org/abs/2405.15214)] [[Code](https://hithqd.github.io/projects/PointRWKV/)]
 - **PoinTramba: A Hybrid Transformer-Mamba Framework for Point Cloud Analysis.** [24 May, 2024] [ArXiv, 2024]<br/>
   *Zicheng Wang, Zhenghao Chen, Yiming Wu, Zhen Zhao, Luping Zhou, Dong Xu.*<br/>
   [[Paper](https://arxiv.org/abs/2405.15463)] [[Code](https://github.com/xiaoyao3302/PoinTramba)]
