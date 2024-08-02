@@ -380,6 +380,9 @@ If you find this repository is useful for you, please cite our paper:
 - **Mamba or RWKV: Exploring High-Quality and High-Efficiency Segment Anything Model.** [27 June, 2024] [ArXiv, 2024]<br/>
   *Haobo Yuan, Xiangtai Li, Lu Qi, Tao Zhang, Ming-Hsuan Yang, Shuicheng Yan, Chen Change Loy.*<br/>
   [[Paper](https://arxiv.org/abs/2406.19369)] [[Code](https://github.com/HarborYuan/ovsam)]
+- **Scalable Visual State Space Model with Fractal Scanning.** [26 May, 2024] [ArXiv, 2024]<br/>
+  *Lv Tang, HaoKe Xiao, Peng-Tao Jiang, Hao Zhang, Jinwei Chen, Bo Li.*<br/>
+  [[Paper](https://arxiv.org/abs/2405.14480)]
 
 #### 1.2 Video Analysis and Understanding
 
@@ -478,9 +481,6 @@ If you find this repository is useful for you, please cite our paper:
 - **IRSRMamba: Infrared Image Super-Resolution via Mamba-based Wavelet Transform Feature Modulation Model.** [16 May, 2024] [ArXiv, 2024]<br/>
   *Yongsong Huang, Tomo Miyazaki, Xiaofeng Liu, Shinichiro Omachi.*<br/>
   [[Paper](https://arxiv.org/abs/2405.09873)] [[Code](https://github.com/yongsongH/IRSRMamba)]
-- **Scalable Visual State Space Model with Fractal Scanning.** [26 May, 2024] [ArXiv, 2024]<br/>
-  *Lv Tang, HaoKe Xiao, Peng-Tao Jiang, Hao Zhang, Jinwei Chen, Bo Li.*<br/>
-  [[Paper](https://arxiv.org/abs/2405.14480)]
 - **Dual Hyperspectral Mamba for Efficient Spectral Compressive Imaging.** [1 June, 2024] [ArXiv, 2024]<br/>
   *Jiahua Dong, Hui Yin, Hongliu Li, Wenbo Li, Yulun Zhang, Salman Khan, Fahad Shahbaz Khan.*<br/>
   [[Paper](https://arxiv.org/abs/2406.00449)] [[Code](https://github.com/JiahuaDong/DHM)]
