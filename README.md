@@ -245,9 +245,6 @@ If you find this repository is useful for you, please cite our paper:
 * **HDMba: Hyperspectral Remote Sensing Imagery Dehazing with State Space Model.** [9 June, 2024] [ArXiv, 2024]<br/>
   *Hang Fu, Genyun Sun, Yinhe Li, Jinchang Ren, Aizhu Zhang, Cheng Jing, Pedram Ghamisi.*<br/>
   [[Paper](https://arxiv.org/abs/2406.05700)] [[Code](https://github.com/RsAI-lab/HDMba)]
-* **Vision Mamba: Cutting-Edge Classification of Alzheimer's Disease with 3D MRI Scans.** [9 June, 2024] [ArXiv, 2024]<br/>
-  *Muthukumar K A, Amit Gurung, Priya Ranjan.*<br/>
-  [[Paper](https://arxiv.org/abs/2406.05757)]
 * **Convolution and Attention-Free Mamba-based Cardiac Image Segmentation.** [9 June, 2024] [ArXiv, 2024]<br/>
   *Abbas Khan, Muhammad Asad, Martin Benning, Caroline Roney, Gregory Slabaugh.*<br/>
   [[Paper](https://arxiv.org/abs/2406.05786)]
@@ -807,9 +804,6 @@ If you find this repository is useful for you, please cite our paper:
 - **MGI: Multimodal Contrastive pre-training of Genomic and Medical Imaging.** [2 June, 2024] [ArXiv, 2024]<br/>
   *Jiaying Zhou, Mingzhou Jiang, Junde Wu, Jiayuan Zhu, Ziyue Wang, Yueming Jin.*<br/>
   [[Paper](https://arxiv.org/abs/2406.00631)]
-- **Vision Mamba: Cutting-Edge Classification of Alzheimer's Disease with 3D MRI Scans.** [9 June, 2024] [ArXiv, 2024]<br/>
-  *Muthukumar K A, Amit Gurung, Priya Ranjan.*<br/>
-  [[Paper](https://arxiv.org/abs/2406.05757)]
 
 #### 2.3 Deformable Image Registration
 
