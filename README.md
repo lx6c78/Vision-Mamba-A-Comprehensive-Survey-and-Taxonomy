@@ -472,9 +472,6 @@ If you find this repository is useful for you, please cite our paper:
 - **IRSRMamba: Infrared Image Super-Resolution via Mamba-based Wavelet Transform Feature Modulation Model.** [16 May, 2024] [ArXiv, 2024]<br/>
   *Yongsong Huang, Tomo Miyazaki, Xiaofeng Liu, Shinichiro Omachi.*<br/>
   [[Paper](https://arxiv.org/abs/2405.09873)] [[Code](https://github.com/yongsongH/IRSRMamba)]
-- **Dual Hyperspectral Mamba for Efficient Spectral Compressive Imaging.** [1 June, 2024] [ArXiv, 2024]<br/>
-  *Jiahua Dong, Hui Yin, Hongliu Li, Wenbo Li, Yulun Zhang, Salman Khan, Fahad Shahbaz Khan.*<br/>
-  [[Paper](https://arxiv.org/abs/2406.00449)] [[Code](https://github.com/JiahuaDong/DHM)]
 - **LFMamba: Light Field Image Super-Resolution with State Space Model.** [18 June, 2024] [ArXiv, 2024]<br/>
   *Wang xia, Yao Lu, Shunzhou Wang, Ziqi Wang, Peiqi Xia, Tianfei Zhou.*<br/>[[Paper](https://arxiv.org/abs/2406.12463)]
 - **Mamba-based Light Field Super-Resolution with Efficient Subspace Scanning.** [23 June, 2024] [ArXiv, 2024]<br/>
@@ -533,6 +530,9 @@ If you find this repository is useful for you, please cite our paper:
 - **GMSR:Gradient-Guided Mamba for Spectral Reconstruction from RGB Images.** [13 May, 2024] [ArXiv, 2024]<br/>
   *Xinying Wang, Zhixiong Huang, Sifan Zhang, Jiawen Zhu, Lin Feng.*<br/>
   [[Paper](https://arxiv.org/abs/2405.07777)] [[Code](https://github.com/wxy11-27/GMSR)]
+- **Dual Hyperspectral Mamba for Efficient Spectral Compressive Imaging.** [1 June, 2024] [ArXiv, 2024]<br/>
+  *Jiahua Dong, Hui Yin, Hongliu Li, Wenbo Li, Yulun Zhang, Salman Khan, Fahad Shahbaz Khan.*<br/>
+  [[Paper](https://arxiv.org/abs/2406.00449)] [[Code](https://github.com/JiahuaDong/DHM)]
 
 ### 4 Visual Data Generation
 
