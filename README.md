@@ -335,6 +335,36 @@ If you find this repository is useful for you, please cite our paper:
 - **AVS-Mamba: Exploring Temporal and Multi-modal Mamba for Audio-Visual Segmentation.** [2025] [ArXiv, 2025]<br/>
   *Sitong Gong, Yunzhi Zhuge, Lu Zhang, Yifan Wang, Pingping Zhang, Lijun Wang, Huchuan Lu.*<br/>
   [[Paper](https://arxiv.org/abs/2501.07810)]
+- **H-MBA: Hierarchical MamBa Adaptation for Multi-Modal Video Understanding in Autonomous Driving.** [8 January, 2025] [AAAI, 2025]<br/>
+  *Siran Chen, Yuxiao Luo, Yue Ma, Yu Qiao, Yali Wang.*<br/>
+  [[Paper](https://arxiv.org/abs/2501.04302)] [[Code](https://github.com/Sranc3/H-MBA)]
+- **VideoMAP: Toward Scalable Mamba-based Video Autoregressive Pretraining.** [16 March, 2025] [ArXiv, 2025]<br/>
+  *Yunze Liu, Peiran Wu, Cheng Liang, Junxiao Shen, Limin Wang, Li Yi.*<br/>
+  [[Paper](https://arxiv.org/abs/2503.12332)] [[Code](https://github.com/yunzeliu/MAP)]
+- **Vamba: Understanding Hour-Long Videos with Hybrid Mamba-Transformers.** [14 March, 2025] [ICCV, 2025]<br/>
+  *Weiming Ren, Wentao Ma, Huan Yang, Cong Wei, Ge Zhang, Wenhu Chen.*<br/>
+  [[Paper](https://arxiv.org/abs/2503.11579)] [[Code](https://github.com/TIGER-AI-Lab/Vamba)]
+- **MVQA: Mamba with Unified Sampling for Efficient Video Quality Assessment.** [22 April, 2025] [ICCV, 2025]<br/>
+  *Yachun Mi, Yu Li, Weicheng Meng, Chaofeng Chen, Chen Hui, Shaohui Liu.*<br/>
+  [[Paper](https://arxiv.org/abs/2504.16003)] [[Code](https://github.com/xiao-mi-d/MVQA)]
+- **MamFusion: Multi-Mamba with Temporal Fusion for Partially Relevant Video Retrieval.** [4 June, 2025] [ICME, 2025]<br/>
+  *Xinru Ying, Jiaqi Mo, Jingyang Lin, Canghong Jin, Fangfang Wang, Lina Wei.*<br/>
+  [[Paper](https://arxiv.org/abs/2506.03473)] [[Code](https://github.com/Vision-Multimodal-Lab-HZCU/MamFusion)]
+- **State-Space Hierarchical Compression with Gated Attention and Learnable Sampling for Hour-Long Video Understanding in Large Multimodal Models.** [16 June, 2025] [AAAI, 2026]<br/>
+  *Geewook Kim, Minjoon Seo.*<br/>
+  [[Paper](https://arxiv.org/abs/2506.13564)] [[Code](https://github.com/naver-ai/mambamia)]
+- **HieraMamba: Video Temporal Grounding via Hierarchical Anchor-Mamba Pooling.** [2025] [CVPR, 2026]<br/>
+  *Joungbin An, Kristen Grauman.*<br/>
+  [[Paper](https://arxiv.org/abs/2510.23043)] [[Code](https://github.com/jbistanbul/hieramamba)]
+- **TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding.** [20 November, 2025] [CVPR, 2026]<br/>
+  *Boshen Xu, Zihan Xiao, Jiaze Li, Jianzhong Ju, Zhenbo Luo, Jian Luan, Qin Jin.*<br/>
+  [[Paper](https://arxiv.org/abs/2511.16595)] [[Code](https://github.com/xiaomi-research/timeviper)]
+- **MS-Temba: Multi-Scale Temporal Mamba for Understanding Long Untrimmed Videos.** [2025] [CVPR, 2026]<br/>
+  *Arkaprava Sinha, Monish Soundar Raj, Pu Wang, Ahmed Helmy, Hieu Le, Srijan Das.*<br/>
+  [[Paper](https://arxiv.org/abs/2501.06138)] [[Code](https://github.com/thearkaprava/MS-Temba)]
+- **When Transformers Meet Mamba: A Hybrid Transformer-Mamba Network for Video Object Detection.** [2026] [CVPR, 2026]<br/>
+  *Qiang Qi, Xiao Wang, Zongyuan Du, Yu Zhang.*<br/>
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Qi_When_Transformers_Meet_Mamba_A_Hybrid_Transformer-Mamba_Network_for_Video_CVPR_2026_paper.html)]
 
 #### 1.3 Down-stream Visual Applications
 
